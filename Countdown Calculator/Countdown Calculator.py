@@ -22,6 +22,7 @@ m.place(x=228,y=220)
 s.place(x=288,y=220)
 Label(text=":",fg="#0F42FD",font=('Lithos Pro Regular',30),bg='#C9C9C9').place(x=215,y=217)
 Label(text=":",fg="#0F42FD",font=('Lithos Pro Regular',30),bg='#C9C9C9').place(x=273,y=217)
+
 #Btn to start timmer
 start_btn=Button(text="  ",font=(10),bg='#C9C9C9')
 start_btn.place(height=21,width=27,x=237,y=102)
